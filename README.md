@@ -1,6 +1,6 @@
-# psyscanner
+# PsyScanner
 
-🧶 Psychology tests project.
+🧶 Psychology tests compilation project.
 
 Nothing to do here, yet.\
 Development in progress. :hammer:
@@ -18,4 +18,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ### `npm run deploy`
 
-Deploys the proget to github pages.
+Deploys the project to github pages.
