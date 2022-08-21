@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/psyscanner/static/css/main.964fdded.css",
+    "main.js": "/psyscanner/static/js/main.2a5394d5.js",
+    "static/js/787.a3ffdd20.chunk.js": "/psyscanner/static/js/787.a3ffdd20.chunk.js",
+    "index.html": "/psyscanner/index.html",
+    "main.964fdded.css.map": "/psyscanner/static/css/main.964fdded.css.map",
+    "main.2a5394d5.js.map": "/psyscanner/static/js/main.2a5394d5.js.map",
+    "787.a3ffdd20.chunk.js.map": "/psyscanner/static/js/787.a3ffdd20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.2a5394d5.js"
+  ]
+}
